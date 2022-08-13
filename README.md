@@ -1,2 +1,2 @@
 # Charlotte Grace Jenkinson Portfolio
-A basic website selling how great i am ;)
+A basic website explaining how great i am ;)
