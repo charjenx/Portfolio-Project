@@ -1,0 +1,30 @@
+html {
+    font-family: Quicksand;
+    height: 100%;
+    color: #024554;
+}
+
+.nav {
+    display: inline-flex;
+    position: fixed;
+    z-index: 1;
+    background-color: #C2C0A6;
+    width: 100%;
+    padding: 1%;
+}
+
+#list-items {
+    display: flex;
+}
+
+.about-me {
+    position: relative;
+}
+
+#me {
+    width: 300px;
+}
+
+#html, #css, #js, #react, #github {
+    width: 50px;
+}
