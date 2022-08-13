@@ -69,6 +69,21 @@ h2, p, img {
     margin: 3%;
 }
 
+#linked:hover {
+    height: 100px;
+    transition: 1s ease;
+}
+
+#email:hover {
+    height: 100px;
+    transition: 1s ease;
+}
+
+#git:hover {
+    height: 100px;
+    transition: 1s ease;
+}
+
 footer {
     text-align: center;
 }
