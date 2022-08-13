@@ -1,3 +1,74 @@
 html {
-    color: pink
+    font-family: Quicksand;
+    height: 100%;
+    color: #024554;
+    width: 95%;
+}
+
+.nav {
+    display: flex;
+    position: relative;
+    z-index: 1;
+    background-color: #C2C0A6;
+    width: 100%;
+    padding: 2%;
+    border-radius: 12px;
+    justify-content: space-between;
+
+}
+
+h1 {
+    font-size: 30px;
+    text-align: start;
+    color: #024554;
+    text-decoration: none;
+}
+
+#title a {
+    text-decoration: none!important;
+    color: #024554!important;
+}
+
+#title a:hover {
+    color: #6A8C69;
+  }
+
+li a {
+    display: block;
+    width: 100%;
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    text-align: centre;
+    color: #024554;
+    text-decoration: none;
+}
+
+li a:visited {
+    color: #024554;
+    text-decoration: none;
+  }
+
+li a:hover {
+    color: #6A8C69;
+  }
+
+
+#list-items {
+    display: flex;
+    color:#A8B545;
+    list-style-type: none;    
+}
+
+h2, p, img {
+    padding: 3%;
+}
+
+#linked, #email, #git {
+    height: 50px;
+    margin: 3%;
+}
+
+footer {
+    text-align: center;
 }
